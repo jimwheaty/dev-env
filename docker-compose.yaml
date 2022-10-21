@@ -1,0 +1,11 @@
+version: '3.3'
+
+services:
+  dev-env:
+    container_name: dev-env
+    image: "fedora:latest"
+    volumes:
+      - ..:/home
+    working_dir: /home
+    tty: true
+    restart: always
