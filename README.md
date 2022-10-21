@@ -1,12 +1,11 @@
 # Simple development environment in Windows
-> Just a docker image of fedora:latest for developing applications on Windows.
-> 
 > Prerequisites: Docker Desktop
 
 ## How to run the first time
 ```
 docker-compose up -d
 ```
+
 ## How to use
 The container should begin every time we open Docker Desktop.
 
