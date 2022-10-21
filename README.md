@@ -7,7 +7,6 @@
 ```
 docker-compose up -d
 ```
-
 ## How to use
 The container should begin every time we open Docker Desktop.
 
